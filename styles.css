@@ -1,14 +1,24 @@
 .container{
-    /* margin: 200px 100px; */
-    background-color: hsl(212, 45%, 89%)
+    position:absolute;
+    margin: 125px 50px;
+    background-color: hsl(212, 45%, 89%);
 }
 .image{
     width:100%;
     height:70%;
 }
-
 .box{
+    position: relative;
+    margin:100px 560px;
     background-color: hsl(0, 0%, 100%);
-    width:10%;
+    width: 18%;
     height:80%;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+.attribution{
+    /* position:relative; */
+    margin: 100px 0;
 }
