@@ -4,5 +4,9 @@
 .box{
     background-color: hsl(0, 0%, 100%);
     width:100px;
+    height:500px;
+}
+.img{
+    width:100px;
     height:100px;
 }
